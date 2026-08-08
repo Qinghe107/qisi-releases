@@ -1,6 +1,1 @@
-{
-  "versionCode": 12,
-  "versionName": "2.1",
-  "url": "https://gitee.com/local646/xisi-android/releases/download/v12/qisi_2.1.apk",
-  "notes": "v2.1 更新通道双通道容错(GitHub+Gitee)"
-}
+{"versionCode": 13, "versionName": "2.2", "url": "https://gitee.com/local646/xisi-android/releases/download/v13/qisi_2.2.apk", "note": "v2.2: 多图发送(一次发多张,AI 读完全部再回复)+ 图片自动压缩(修复超大图识别失败)+ 多图显示修复"}
