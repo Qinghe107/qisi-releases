@@ -1,1 +1,1 @@
-{"versionCode": 15, "versionName": "2.4", "url": "https://gitee.com/local646/xisi-android/releases/download/v15/qisi_2.4.apk", "notes": "v2.4 更新内容：\n✨ 克隆训练大升级：支持导入纯文本聊天记录(时间+说话人格式)、几万条消息不卡顿、修复导入崩溃\n💬 聊天：AI 回复乱码自动重试、气泡圆角修复(窄屏手机不再出现直角)\n🗑️ 纪念册：删除回忆新增确认弹窗(防误触)\n👥 群聊：支持长按删除群聊\n📦 更新弹窗布局优化(长内容按钮不再被挤没)"}
+{"versionCode": 16, "versionName": "2.4.1", "url": "https://gitee.com/local646/xisi-android/releases/download/v16/qisi_2.4.1.apk", "notes": "v2.4.1 修复：\n🧠 修复智能体记忆串号：发送后切换智能体时,记忆/心情/人设不再注入到其他智能体的请求\n🔍 新增对话调试日志(便于排查问题)"}
