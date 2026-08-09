@@ -1,1 +1,1 @@
-{"versionCode": 16, "versionName": "2.4.1", "url": "https://gitee.com/local646/xisi-android/releases/download/v16/qisi_2.4.1.apk", "notes": "v2.4.1 修复：\n🧠 修复智能体记忆串号：发送后切换智能体时,记忆/心情/人设不再注入到其他智能体的请求\n🔍 新增对话调试日志(便于排查问题)"}
+{"versionCode": 17, "versionName": "2.5", "url": "https://gitee.com/local646/xisi-android/releases/download/v17/qisi_2.5.apk", "notes": "v2.5 更新内容：\n💡 新增「反馈与建议」：设置→支持→一键提交,可附带调试日志(自动上传到审核端)\n🕐 修复背景故事中的历史日期被误当作当前时间(如背景写六月,不再答六月很冷)\n🎨 修复智能体删除按钮红字红底看不清(改为红底白字)"}
