@@ -1,1 +1,1 @@
-{"version": "2.11", "versionName": "2.11", "versionCode": 24, "note": "v2.11: 更新弹窗版本号显示修复 / 跳转无障碍前自动停悬浮窗(ColorOS 遮挡拒绝兼容) / 上一版 v2.10 全部功能(深度记忆/吃醋守护/一起听/接口预设)", "url": "https://gitee.com/local646/xisi-android/releases/download/v24/qisi_2.11.apk"}
+{"version": "2.12", "versionName": "2.12", "versionCode": 25, "note": "v2.12: 吃醋触发消息包名转App名(不再泄漏 com.xxx) / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v25/qisi_2.12.apk"}
