@@ -1,1 +1,1 @@
-{"version": "2.10", "versionName": "2.10", "versionCode": 23, "note": "v2.10: 深度记忆(故事时间线/索引备份找回) / AI吃醋守护(可选智能体/轮询检测/自动切回开关/前台服务保活) / 一起听(歌单/歌词/悬浮窗/网易云歌单) / 接口预设(切换保存删除+美化下拉) / 多图发送 / 流式读历史防OOM", "url": "https://gitee.com/local646/xisi-android/releases/download/v23/qisi_2.10.apk"}
+{"version": "2.11", "versionName": "2.11", "versionCode": 24, "note": "v2.11: 更新弹窗版本号显示修复 / 跳转无障碍前自动停悬浮窗(ColorOS 遮挡拒绝兼容) / 上一版 v2.10 全部功能(深度记忆/吃醋守护/一起听/接口预设)", "url": "https://gitee.com/local646/xisi-android/releases/download/v24/qisi_2.11.apk"}
