@@ -1,1 +1,1 @@
-{"version": "2.14", "versionName": "2.14", "versionCode": 27, "note": "v2.14: 修复智能体页每2秒卡顿(深度记忆进度轮询移后台线程+onPause停止+降频) / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v27/qisi_2.14.apk"}
+{"version": "2.15", "versionName": "2.15", "versionCode": 28, "note": "v2.15: 修复Claude等模型字数限制失效(自动解析字数上限传max_tokens硬限制+prompt强化) / 修复发消息延迟4秒(天气同步拉取改过期缓存立即返回+后台刷新,超时8s缩3s) / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v28/qisi_2.15.apk"}
