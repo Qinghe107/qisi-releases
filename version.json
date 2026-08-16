@@ -1,1 +1,1 @@
-{"version": "2.13", "versionName": "2.13", "versionCode": 26, "note": "v2.13: 吃醋守护监控名单列表化(输入框+添加+数字序号+删除) / 包名输入框彩色边框 / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v26/qisi_2.13.apk"}
+{"version": "2.14", "versionName": "2.14", "versionCode": 27, "note": "v2.14: 修复智能体页每2秒卡顿(深度记忆进度轮询移后台线程+onPause停止+降频) / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v27/qisi_2.14.apk"}
