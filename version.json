@@ -1,1 +1,1 @@
-{"version": "2.15", "versionName": "2.15", "versionCode": 28, "note": "v2.15: 修复Claude等模型字数限制失效(自动解析字数上限传max_tokens硬限制+prompt强化) / 修复发消息延迟4秒(天气同步拉取改过期缓存立即返回+后台刷新,超时8s缩3s) / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v28/qisi_2.15.apk"}
+{"version": "2.16", "versionName": "2.16", "versionCode": 29, "note": "v2.16: 修复AI返回空内容(报错码200, DeepSeek官方API max_tokens过小)——max_tokens加下限150+空内容重试自动去掉限制 / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v29/qisi_2.16.apk"}
