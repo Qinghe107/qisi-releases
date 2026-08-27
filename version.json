@@ -1,1 +1,1 @@
-{"version": "2.16", "versionName": "2.16", "versionCode": 29, "note": "v2.16: 修复AI返回空内容(报错码200, DeepSeek官方API max_tokens过小)——max_tokens加下限150+空内容重试自动去掉限制 / 上一版全部功能", "url": "https://gitee.com/local646/xisi-android/releases/download/v29/qisi_2.16.apk"}
+{"version": "3.4", "versionName": "v3.4test", "versionCode": 44, "note": "v3.4: 工坊全面服务器化+详情页+作者主页+服务器发版", "url": "https://github.com/Qinghe107/qisi-releases/releases/download/v3.4test/qisi_v3.4test.apk"}
