@@ -1,7 +1,7 @@
 {
-  "version": "3.5",
-  "versionName": "v3.5",
-  "versionCode": 45,
-  "note": "正式版 v3.5: 皮肤商店+DIY编辑器+闹钟+主页主题+皮肤审核",
-  "url": "http://111.229.202.222:8081/apk/qisi_v3.5.apk"
+  "version": "3.5.1",
+  "versionName": "v3.5.1",
+  "versionCode": 46,
+  "note": "正式版 v3.5.1: 修复充值商店点击穿透 + 清理死代码",
+  "url": "http://111.229.202.222:8081/apk/qisi_v3.5.1.apk"
 }
